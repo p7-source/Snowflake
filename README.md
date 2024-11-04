@@ -1,4 +1,3 @@
-# Snowflake
 # Securing PII data in Snowflake
 
 Scenario: A company has three departments, engineering, marketing and support. Each of the departments have a manager and three team members. A table exists which contains the employees of each department and the salary for each.  
